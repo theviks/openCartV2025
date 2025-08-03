@@ -22,3 +22,11 @@
 2025-07-30 17:55:50 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
 2025-07-30 17:55:55 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
 2025-07-30 17:55:57 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
+2025-08-03 16:50:06 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
+2025-08-03 16:50:06 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
+2025-08-03 16:50:06 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
+2025-08-03 16:50:07 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
+2025-08-03 16:50:08 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
+2025-08-03 16:50:08 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
+2025-08-03 16:50:12 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
+2025-08-03 16:50:14 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
