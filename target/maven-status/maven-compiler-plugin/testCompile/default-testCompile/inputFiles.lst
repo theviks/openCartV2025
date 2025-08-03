@@ -1,0 +1,12 @@
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\pageObjects\BasePage.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\pageObjects\HomePage.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\pageObjects\LoginPage.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\pageObjects\myAccountPage.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\pageObjects\RegistrationPage.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\testBase\BaseClass.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\testCases\TC_001_AccoutnRegistrationTest.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\testCases\TC_002_LoginPageTest.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\testCases\TC_003_LoginDDT.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\utilities\DataProviders.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\utilities\ExcelUtility.java
+C:\AutoMation TEsting\OpenCartV2025\src\test\java\utilities\ExtentReportManager.java
