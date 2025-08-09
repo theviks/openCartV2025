@@ -13,6 +13,7 @@
       	<class name="testCases.TC_001_AccoutnRegistrationTest"/>
       	<class name="testCases.TC_002_LoginPageTest"/> 
       	<!--  <class name="testCases.TC_003_LoginDDT"/>  -->
+      	<class name="testCases.TC_004_Search"/>
     </classes>
   </test> <!-- Test -->
 
@@ -23,6 +24,7 @@
       	<class name="testCases.TC_001_AccoutnRegistrationTest"/>
       	<class name="testCases.TC_002_LoginPageTest"/> 
       	<!--  <class name="testCases.TC_003_LoginDDT"/>  -->
+      	<class name="testCases.TC_004_Search"/>
     </classes>
   </test> <!-- Test -->
 

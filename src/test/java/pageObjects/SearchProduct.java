@@ -12,6 +12,7 @@ public class SearchProduct extends BasePage {
 	
 	@FindBy(xpath="//input[@placeholder='Search']") WebElement searchBar;
 	@FindBy(xpath="//button[@class='btn btn-default btn-lg']") WebElement searchBtn;
+	@FindBy(xpath="//img[@title='iMac']") WebElement verifySearch;
 
 	
 	public void sendValue(String value) {
@@ -20,5 +21,9 @@ public class SearchProduct extends BasePage {
 	
 	public void clickSearch() {
 		searchBtn.click();
+	}
+	
+	public boolean vSearch() {
+		return(verifySearch.isDisplayed());		
 	}
 }

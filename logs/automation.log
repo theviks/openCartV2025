@@ -1,32 +1,40 @@
-2025-07-30 17:21:59 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
-2025-07-30 17:21:59 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
-2025-07-30 17:21:59 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
-2025-07-30 17:22:00 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
-2025-07-30 17:22:03 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
-2025-07-30 17:22:03 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
-2025-07-30 17:22:07 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
-2025-07-30 17:22:09 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
-2025-07-30 17:48:45 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
-2025-07-30 17:48:45 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
-2025-07-30 17:48:45 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
-2025-07-30 17:48:46 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
-2025-07-30 17:48:49 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
-2025-07-30 17:48:49 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
-2025-07-30 17:48:53 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
-2025-07-30 17:48:56 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
-2025-07-30 17:55:45 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
-2025-07-30 17:55:45 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
-2025-07-30 17:55:45 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
-2025-07-30 17:55:46 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
-2025-07-30 17:55:50 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
-2025-07-30 17:55:50 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
-2025-07-30 17:55:55 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
-2025-07-30 17:55:57 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
-2025-08-03 16:50:06 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
-2025-08-03 16:50:06 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
-2025-08-03 16:50:06 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
-2025-08-03 16:50:07 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
-2025-08-03 16:50:08 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
-2025-08-03 16:50:08 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
-2025-08-03 16:50:12 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
-2025-08-03 16:50:14 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
+2025-08-09 09:03:55 INFO  TC_004_Search:13 - ***Starting Search Bar Test***
+2025-08-09 09:03:56 INFO  TC_004_Search:28 - ***Completed Search Bar Test***
+2025-08-09 09:28:04 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
+2025-08-09 09:28:04 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
+2025-08-09 09:28:04 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
+2025-08-09 09:28:06 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
+2025-08-09 09:28:11 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
+2025-08-09 09:28:11 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
+2025-08-09 09:28:15 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
+2025-08-09 09:28:21 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
+2025-08-09 09:28:26 INFO  TC_004_Search:15 - ***Starting Search Bar Test***
+2025-08-09 09:28:40 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
+2025-08-09 09:28:40 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
+2025-08-09 09:28:40 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
+2025-08-09 09:28:42 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
+2025-08-09 09:28:44 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
+2025-08-09 09:28:44 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
+2025-08-09 09:28:50 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
+2025-08-09 09:28:52 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
+2025-08-09 09:28:59 INFO  TC_004_Search:15 - ***Starting Search Bar Test***
+2025-08-09 09:34:09 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
+2025-08-09 09:34:09 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
+2025-08-09 09:34:10 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
+2025-08-09 09:34:11 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
+2025-08-09 09:34:14 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
+2025-08-09 09:34:14 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
+2025-08-09 09:34:18 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
+2025-08-09 09:34:22 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
+2025-08-09 09:34:27 INFO  TC_004_Search:16 - ***Starting Search Bar Test***
+2025-08-09 09:34:29 INFO  TC_004_Search:35 - ***Completed Search Bar Test***
+2025-08-09 09:34:38 INFO  TC_001_AccoutnRegistrationTest:17 - ****  Starting the Test ****
+2025-08-09 09:34:38 INFO  TC_001_AccoutnRegistrationTest:20 - ****  Clicking My Account ****
+2025-08-09 09:34:38 INFO  TC_001_AccoutnRegistrationTest:22 - ****  Clicking Register ****
+2025-08-09 09:34:39 INFO  TC_001_AccoutnRegistrationTest:26 - ****  Providing customer details ****
+2025-08-09 09:34:42 INFO  TC_001_AccoutnRegistrationTest:38 - ****  Verifying ****
+2025-08-09 09:34:42 INFO  TC_001_AccoutnRegistrationTest:53 - ***Testing Completed for TC_001_AccoutnRegistrationTest ***
+2025-08-09 09:34:49 INFO  TC_002_LoginPageTest:15 - *** Starting Login Test***
+2025-08-09 09:34:51 INFO  TC_002_LoginPageTest:35 - *** Test Tc_002_LoginPageTest Completed***
+2025-08-09 09:34:57 INFO  TC_004_Search:16 - ***Starting Search Bar Test***
+2025-08-09 09:34:59 INFO  TC_004_Search:35 - ***Completed Search Bar Test***

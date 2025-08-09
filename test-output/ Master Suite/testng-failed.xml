@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [ Master Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="Chrome"/>
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="chromeTest(failed)">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_003_LoginDDT">
+      <class name="testCases.TC_004_Search">
         <methods>
-          <include name="verify_login"/>
+          <include name="searchTest"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.TC_003_LoginDDT -->
+      </class> <!-- testCases.TC_004_Search -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- chromeTest(failed) -->
+  <test thread-count="5" name="firefoxTest(failed)">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC_004_Search">
+        <methods>
+          <include name="searchTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_004_Search -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
 </suite> <!-- Failed suite [ Master Suite] -->

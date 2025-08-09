@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods,   4 passed</span>
+                    <span class="method-stats">6 methods,   6 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -101,6 +101,16 @@
                       <a href="#" panel-name="suite-_Master_Suite" class="show-methods passed suite-_Master_Suite"> (show)</a> <!-- show-methods passed suite-_Master_Suite -->
                     </span>
                     <div class="method-list-content passed suite-_Master_Suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-_Master_Suite" title="testCases.TC_004_Search" class="method navigator-link" hash-for-method="searchTest">searchTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-_Master_Suite" title="testCases.TC_004_Search" class="method navigator-link" hash-for-method="searchTest">searchTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-_Master_Suite" title="testCases.TC_001_AccoutnRegistrationTest" class="method navigator-link" hash-for-method="verify_account_registration">verify_account_registration</a> <!-- method navigator-link -->
@@ -158,6 +168,28 @@
           <div class="suite-_Master_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
+              <span class="class-name">testCases.TC_004_Search</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchTest">
+                  </a> <!-- searchTest -->
+                  <span class="method-name">searchTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchTest">
+                  </a> <!-- searchTest -->
+                  <span class="method-name">searchTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-_Master_Suite-class-passed -->
+          <div class="suite-_Master_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
               <span class="class-name">testCases.TC_001_AccoutnRegistrationTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -196,6 +228,7 @@
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TC_001_AccoutnRegistrationTest&quot;/&gt;
       &lt;class name=&quot;testCases.TC_002_LoginPageTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC_004_Search&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- chromeTest --&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;firefoxTest&quot;&gt;
@@ -204,6 +237,7 @@
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TC_001_AccoutnRegistrationTest&quot;/&gt;
       &lt;class name=&quot;testCases.TC_002_LoginPageTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC_004_Search&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- firefoxTest --&gt;
 &lt;/suite&gt; &lt;!--  Master Suite --&gt;
@@ -217,10 +251,10 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">chromeTest (2 classes)</span>
+                <span class="test-name">chromeTest (3 classes)</span>
               </li>
               <li>
-                <span class="test-name">firefoxTest (2 classes)</span>
+                <span class="test-name">firefoxTest (3 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -254,6 +288,10 @@
               <span class="test-group-name">Sanity</span>
               <br/>
               <div class="method-in-group">
+                <span class="method-in-group-name">searchTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
                 <span class="method-in-group-name">verify_login</span>
                 <br/>
               </div> <!-- method-in-group -->
@@ -274,28 +312,36 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(6);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verify_account_registration')
 data.setCell(0, 2, 'testCases.TC_001_AccoutnRegistrationTest')
-data.setCell(0, 3, 4501);
+data.setCell(0, 3, 4628);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'verify_account_registration')
 data.setCell(1, 2, 'testCases.TC_001_AccoutnRegistrationTest')
-data.setCell(1, 3, 3577);
+data.setCell(1, 3, 4329);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'verify_login')
 data.setCell(2, 2, 'testCases.TC_002_LoginPageTest')
-data.setCell(2, 3, 3558);
+data.setCell(2, 3, 3949);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'verify_login')
 data.setCell(3, 2, 'testCases.TC_002_LoginPageTest')
-data.setCell(3, 3, 2336);
+data.setCell(3, 3, 2118);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'searchTest')
+data.setCell(4, 2, 'testCases.TC_004_Search')
+data.setCell(4, 3, 1935);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'searchTest')
+data.setCell(5, 2, 'testCases.TC_004_Search')
+data.setCell(5, 3, 1461);
 window.suiteTableData['_Master_Suite']= { tableData: data, tableDiv: 'times-div-_Master_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 13 seconds</span>
+              <span class="suite-total-time">Total running time: 18 seconds</span>
               <div id="times-div-_Master_Suite">
               </div> <!-- times-div-_Master_Suite -->
             </div> <!-- times-div -->
@@ -328,56 +374,86 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_account_registration</span>
-                <span class="method-start">7525 ms</span>
+                <span class="method-start">7596 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">11117 ms</span>
+                <span class="method-start">12244 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_002_LoginPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setUp(Linux, chrome)</span>
-                <span class="method-start">11217 ms</span>
+                <span class="method-start">12386 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_login</span>
-                <span class="method-start">15957 ms</span>
+                <span class="method-start">16432 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">19524 ms</span>
+                <span class="method-start">20384 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC_004_Search</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(Linux, chrome)</span>
+                <span class="method-start">20503 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">searchTest</span>
+                <span class="method-start">25661 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">27126 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_001_AccoutnRegistrationTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setUp(Linux, firefox)</span>
-                <span class="method-start">22012 ms</span>
+                <span class="method-start">29108 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_account_registration</span>
-                <span class="method-start">31172 ms</span>
+                <span class="method-start">35769 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">35676 ms</span>
+                <span class="method-start">40101 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC_002_LoginPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setUp(Linux, firefox)</span>
-                <span class="method-start">37116 ms</span>
+                <span class="method-start">41274 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_login</span>
-                <span class="method-start">43194 ms</span>
+                <span class="method-start">46969 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">45534 ms</span>
+                <span class="method-start">49090 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC_004_Search</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(Linux, firefox)</span>
+                <span class="method-start">49910 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">searchTest</span>
+                <span class="method-start">55290 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">57230 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
